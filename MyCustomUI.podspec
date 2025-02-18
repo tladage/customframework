@@ -83,7 +83,7 @@ DESC
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/tladage/customframework.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/tladage/customframework.git", :branch => "main" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
